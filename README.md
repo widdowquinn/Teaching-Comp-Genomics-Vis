@@ -1,4 +1,4 @@
-#README.md - Comparative_Genomics_and_Visualisation
+# README.md - Comparative_Genomics_and_Visualisation
 
 ## Overview
 
